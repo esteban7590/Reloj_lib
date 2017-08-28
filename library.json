@@ -1,5 +1,5 @@
 {
-  "name": "Ultra",
+  "name": "Reloj_lib",
   "keywords": "RTC, alarm, time",
   "description": "Arduino Library for RTC DS3231)",
   "repository":
